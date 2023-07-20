@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7db7b783f21d2f5439e929ae181d2f1b, type: 3}
+  m_Name: DefaultCongig
+  m_EditorClassIdentifier: 
+  colors:
+  - {r: 0.46652997, g: 1, b: 0.47239223, a: 1}
+  - {r: 1, g: 0.62690735, b: 0.62690735, a: 1}
+  - {r: 0.875728, g: 0.61747336, b: 1, a: 1}
+  - {r: 0.67407715, g: 1, b: 0.97598004, a: 1}
+  level: 1
